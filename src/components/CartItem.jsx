@@ -16,7 +16,7 @@ const totalAmount = cartItems.reduce(
 
 return ( <div> <nav> <a href="/">Home</a> <a href="/plants">Plants</a> <a href="/cart">Cart 🛒</a> </nav>
 
-```
+
   <h1>Shopping Cart</h1>
 
   {cartItems.map((item) => (

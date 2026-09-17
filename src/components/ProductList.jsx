@@ -149,7 +149,7 @@ dispatch(addToCart(plant));
 
 return ( <div> <nav> <a href="/">Home</a> <a href="/plants">Plants</a> <a href="/cart">Cart 🛒 ({cartCount})</a> </nav>
 
-```
+
   <h1>Paradise Nursery Plants</h1>
 
   {categories.map((category) => (
